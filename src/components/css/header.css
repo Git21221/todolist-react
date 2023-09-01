@@ -1,0 +1,9 @@
+nav{
+    background-color: rgb(34, 34, 34);
+    color: aliceblue;
+    padding: 20px;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

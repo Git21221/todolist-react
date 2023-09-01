@@ -1,0 +1,22 @@
+.tasks{
+    width: 300px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.tasks div{
+    text-align: left;
+}
+.deleteBtn{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    font-size: 1.7rem;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(255, 0, 0);
+}
